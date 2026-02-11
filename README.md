@@ -1,9 +1,7 @@
-# Machine-Learning-Pipeline
 
 ## English
 
 ### Overview
-Advanced Machine-Learning-Pipeline with comprehensive functionality and modern technology stack. Features multiple programming languages, interactive web interfaces, and advanced analytics capabilities for professional-grade solutions.
 
 ### Author
 **Gabriel Demetrios Lafis**
@@ -47,8 +45,6 @@ Advanced Machine-Learning-Pipeline with comprehensive functionality and modern t
 
 ```bash
 # Clone the repository
-git clone https://github.com/galafis/Machine-Learning-Pipeline.git
-cd Machine-Learning-Pipeline
 
 # Python setup
 python -m venv venv
@@ -92,7 +88,6 @@ python app.py
 ### File Structure
 
 ```
-Machine-Learning-Pipeline/
 ├── app.py              # Main Python application
 ├── requirements.txt    # Python dependencies
 ├── index.html         # Web interface
@@ -143,7 +138,6 @@ ANALYTICS_CONFIG = {
 ## Português
 
 ### Visão Geral
-Machine-Learning-Pipeline avançado com funcionalidade abrangente e stack de tecnologia moderna. Apresenta múltiplas linguagens de programação, interfaces web interativas e capacidades de análise avançadas para soluções de nível profissional.
 
 ### Autor
 **Gabriel Demetrios Lafis**
@@ -173,8 +167,6 @@ Machine-Learning-Pipeline avançado com funcionalidade abrangente e stack de tec
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/galafis/Machine-Learning-Pipeline.git
-cd Machine-Learning-Pipeline
 
 # Configuração Python
 python -m venv venv
